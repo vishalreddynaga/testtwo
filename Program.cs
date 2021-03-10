@@ -6,7 +6,7 @@ namespace temp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hegibi)))))))))))))))))))))))))))))))rld!");
+            Console.WriteLine("Hegibi)))))))))))))))))))))))))))))))(((((((((((((((((rld!");
 
             DateTime now = DateTime.Now;
             Console.WriteLine(now.ToString("F"));
